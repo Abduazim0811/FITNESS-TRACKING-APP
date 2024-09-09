@@ -1,0 +1,15 @@
+app:
+  name: fitness_tracking_app
+  env: dev
+postgres:
+  host: localhost
+  port: 5432
+  username: postgres
+  password: 3115
+  dbname: fitness_tracking_db
+  sslmode: disable
+server:
+  host: "localhost"
+  port: 9000
+
+
